@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">.NET Developer</h3>
-
 ---
 
 🔹 10+ years of experience as a full-stack and backend-focused .NET developer  
