@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mohammad Hossein Khonakdari 👋</h1>
-<h3 align="center">Senior .NET Developer | Backend Specialist | Solution Designer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">.NET Developer</h3>
 
 ---
 
@@ -19,27 +19,6 @@
 - **Dev Tools**: Docker, Redis, GitHub, Log4Net, Microsoft Report  
 - **Other**: Web Scraping, Game Dev (Unity 2D), Time Management
 
----
-
-### 🚀 Notable Projects
-
-- **Language Schools Web App**  
-  Multi-role educational platform using ASP.NET MVC and SQL Server.  
-  _→ Optimized grading/reporting, scalable admin/teacher/student roles._
-
-- **PerfectShop**  
-  Digital file marketplace built with .NET Core and MongoDB.  
-  _→ Implemented payment gateway, Onion architecture, and role-based access._
-
-- **HideIn Tool**  
-  Windows & Web app for secure file hiding and encryption.  
-  _→ AES encryption, product key licensing, binary storage._
-
-- **Secure Message App**  
-  Communication platform with .NET Core 8 and AES-256.  
-  _→ Windows & Web interface, end-to-end secure transmission._
-
----
 
 ### 🏆 Achievements
 
