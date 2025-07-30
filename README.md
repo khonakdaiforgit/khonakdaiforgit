@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi, I'm Mohammad Hossein Khonakdari 👋</h1>
+<h3 align="center">Senior .NET Developer | Backend Specialist | Solution Designer</h3>
+
 ---
 
 🔹 10+ years of experience as a full-stack and backend-focused .NET developer  
@@ -17,7 +19,6 @@
 - **Dev Tools**: Docker, Redis, GitHub, Log4Net, Microsoft Report  
 - **Other**: Web Scraping, Game Dev (Unity 2D), Time Management
 
-
 ### 🏆 Achievements
 
 - 🥈 **Silver Medalist**, Iran WorldSkills 2014 – IT Software Solutions for Business  
@@ -32,7 +33,4 @@
 - 🌐 Website: [khonakdaiforgit.github.io](https://khonakdaiforgit.github.io)  
 - 💼 GitHub: [github.com/khonakdaiforgit](https://github.com/khonakdaiforgit)
 
----
-
-> _“Simple, secure, and scalable software solutions — built to last.”_
 
