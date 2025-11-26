@@ -50,7 +50,6 @@
 - 🌍 Portfolio: [khonakdaiforgit.github.io](https://khonakdaiforgit.github.io)
 - 💼 GitHub: [@khonakdaiforgit](https://github.com/khonakdaiforgit)
 - 📧 Email: khonakdaridev@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/khonakdari](https://www.linkedin.com/in/khonakdari) *(اگر نداری حتماً بساز!)*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khonakdaiforgit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
