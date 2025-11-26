@@ -44,6 +44,9 @@
 ### 🏅 Awards & Recognitions
 - 🥈 **Silver Medal** – WorldSkills Iran 2014<br>_IT Software Solutions for Business_ – Rapid business application development under competition pressure
 
+### 🚀 Open to Collab
+- Looking for partners on .NET Core projects, crypto apps, or 2D games. DM via email or open an Issue!
+
 ### 📫 Let's Connect
 - 🌍 Portfolio: [khonakdaiforgit.github.io](https://khonakdaiforgit.github.io)
 - 💼 GitHub: [@khonakdaiforgit](https://github.com/khonakdaiforgit)
