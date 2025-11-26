@@ -21,7 +21,7 @@
 | **Architecture**      | Onion/Clean Architecture, CQRS, Repository & Unit of Work, DI |
 | **Databases**         | SQL Server, MongoDB, Redis, RealmDB |
 | **Security**          | JWT (Access + Refresh), AES-256, OWASP compliance, SQL Injection prevention |
-| **DevOps & Tools**    | Docker, Git/GitHub, QuestPDF, Log4Net, Hangfire |
+| **DevOps & Tools**    | Docker, Git/GitHub, QuestPDF, Log4Net |
 | **Frontend**          | Razor Pages, Bootstrap 5, jQuery, Chart.js |
 | **Other**             | Unity 2D Game Dev, Web Scraping, Speech-to-Text, Crypto Payments (USDT) |
 
