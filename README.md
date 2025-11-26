@@ -7,8 +7,6 @@
   <a href="https://www.linkedin.com/in/khonakdari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-<img align="right" width="380" src="https://github.com/khonakdaiforgit/khonakdaiforgit/blob/main/assets/profile-pic.jpg?raw=true" />
-
 ### 👨‍💻 About Me
 - 🔹 10+ years of .NET experience (mostly full-stack & backend)
 - 🔹 Located in Babolsar, Iran – fully open to **remote** opportunities worldwide
