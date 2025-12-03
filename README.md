@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://khonakdaiforgit.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" /></a>
   <a href="mailto:khonakdaridev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/khonakdari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ### 👨‍💻 About Me
